@@ -1,0 +1,2 @@
+# open-cycloidal-actuator
+Open-source robotic actuator using cycloidal drive, BLDC motor, and FOC control
